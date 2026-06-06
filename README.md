@@ -8,5 +8,6 @@ XD-SEC 现代密码学课程实验代码
 <img width="1023" height="1447" alt="image" src="https://github.com/user-attachments/assets/2b1e165c-edc4-4c4f-a27c-eb41f0f8c79c" />
 
 实验三2026/6
+<img width="1023" height="1447" alt="image" src="https://github.com/user-attachments/assets/7d98ea72-fdbf-4c9c-8bb3-5a08646a5588" />
 
 RSA实验2026/6
